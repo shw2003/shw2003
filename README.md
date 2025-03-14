@@ -16,8 +16,6 @@
 
 <a href="https://www.linkedin.com/in/shweta-kamal-105880219/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="https://www.linkedin.com/in/shweta-kamal-105880219/" height="40" width="40" /></a>
 <a href="https://leetcode.com/aniloum_22/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="https://leetcode.com/aniloum_22/" height="40" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/pmoulina76/profile" target="blank"><img align="center" src="https://img.icons8.com/color/452/GeeksforGeeks.png" alt="pmoulina76" height="40" width="40" /></a>
-<a href="http://moulinapradhan.herokuapp.com/" target="blank"><img align="center" src="https://meetup.github.io/swarm-design-system/assets/contentImages/brandAssets/swarmLogo_knockout_red.svg" alt="http://moulinapradhan.herokuapp.com/" height="40" width="40" /></a>
   
 </p>
 </div>
