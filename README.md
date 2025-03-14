@@ -21,27 +21,45 @@
   
 </p>
 </div>
-🔧 Technologies & Tools
-🚀 Backend Skills
-Languages: Java, Spring Framework, Spring Boot, Hibernate, Microservices
-APIs: RESTful APIs
-Design Patterns: Singleton, Factory, Observer, Builder, CQRS, SAGA, etc.
-🎨 Frontend Skills
-Frameworks/Libraries: React, Angular, Next.js
-Languages: HTML, CSS, JavaScript
-🛠 DevOps Skills
-Containerization: Docker, Kubernetes
-CI/CD: Jenkins, CI/CD pipelines
-Cloud Platforms:
-AWS Services:
-EC2 (Elastic Compute Cloud)
-ECS (Elastic Container Service)
-ECR (Elastic Container Registry)
-EKS (Elastic Kubernetes Service)
-S3 (Simple Storage Service)
-RDS (Relational Database Service)
-CodeBuild
-CloudFormation
-AWS Lambda
-IAM (Identity and Access Management)
-Other Tools: JFrog, Prometheus, Grafana
+<h2 align="left">Hi Developers 👋!</h2>
+
+I'm a passionate **Full-Stack Web Developer** skilled in building dynamic and user-friendly web applications. I specialize in **MERN stack development**, microservices architecture, and DevOps. Always eager to learn and explore new technologies to build scalable and high-performance applications.
+
+---
+
+### 🔧 **Technologies & Tools**
+
+#### 🚀 **Backend Skills**
+- **Backend Framework**: Node.js, Express.js  
+- **Architecture**: Microservices  
+- **API Development**: RESTful APIs
+  
+#### 🎨 **Frontend Skills**
+- **Languages**: JavaScript (ES6+), TypeScript  
+- **Frameworks**: React.js, Next.js  
+- **Styling**: SCSS, Tailwind CSS  
+- **UI Libraries**: Material UI, Chakra UI  
+
+### 🔹 Database
+- **NoSQL**: MongoDB (Mongoose)  
+- **SQL**: PostgreSQL, MySQL  
+
+### 🔹 DevOps & Cloud
+- **CI/CD**: Jenkins, GitHub Actions  
+- **Cloud & Hosting**: AWS (EC2, S3, Lambda), Firebase, Vercel, Netlify
+  
+---
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shw2003&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shw2003&layout=compact)
+
+---
+
+## 📬 Let's Connect!
+💼 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/shweta-kamal-105880219/)  
+📧 **Email**: kamalshweta9@gmail.com  
+🌍 **Portfolio**: [YourPortfolio.com](https://my-portfolio-flax-sigma-79.vercel.app/)  
+
+🚀 *Passionate about building scalable applications and exploring new technologies!*
