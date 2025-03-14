@@ -15,7 +15,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/shweta-kamal-105880219/" target="blank"><img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" alt="https://www.linkedin.com/in/shweta-kamal-105880219/" height="40" width="40" /></a>
-<a href="https://leetcode.com/aniloum_22/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="https://leetcode.com/aniloum_22/" height="40" width="40" /></a>
+<a href="https://leetcode.com/u/rmv4714/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="https://leetcode.com/aniloum_22/" height="40" width="40" /></a>
   
 </p>
 </div>
